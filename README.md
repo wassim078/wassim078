@@ -1,7 +1,9 @@
 # 🛡️ Wassim Jmili
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/readme-typing-svg.vercel.app/demo/" width="0">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineering+Student;Future+SOC+Analyst;Microsoft+Sentinel+%7C+Splunk+%7C+Wazuh;Cloud+Security+%7C+Detection+Engineering">
+
 </p>
 
 <img align="right" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
