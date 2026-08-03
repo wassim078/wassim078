@@ -7,17 +7,13 @@
 
 </p>
 
-
-<img align="right" width="370" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
+<img align="right" width="370" src="https://media.tenor.com/qJ5evVs-_uUAAAAd/cyber-security.gif">
 
 ## 🔐 Cybersecurity Engineering Student
-
 
 I am a Cybersecurity Engineering student passionate about **Security Operations Centers (SOC)**, **Detection Engineering**, **Cloud Security**, and **Defensive Cybersecurity**.
 
 I enjoy designing realistic cybersecurity labs, monitoring security events, investigating attacks, and improving detection capabilities through hands-on practice.
-
 
 <br clear="right"/>
 
