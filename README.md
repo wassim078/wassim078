@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/readme-typing-svg.vercel.app/demo/" width="0">
 </p>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/asset.gif">
-
+<img align="right" width="380" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ## 🔐 Cybersecurity Engineering Student
 
@@ -188,12 +187,9 @@ Currently learning:
 
 <p align="center">
 
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wassim078&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wassim078&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim078&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wassim078&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
