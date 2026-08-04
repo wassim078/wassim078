@@ -321,7 +321,7 @@ Currently studying:
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-<a href="https://app.hackthebox.com/public/users/3680616" target="_blank">
+<a href="https://profile.hackthebox.com/profile/019f1e1f-c360-73a0-99a4-b7629b31e2f3" target="_blank">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 </a>
 
