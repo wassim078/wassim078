@@ -21,7 +21,6 @@ I am a Cybersecurity Engineering student passionate about **Security Operations 
 I enjoy designing realistic cybersecurity labs, monitoring security events, investigating attacks, and improving detection capabilities through hands-on practice.
 
 
-<br><br>
 
 
 ---
