@@ -9,9 +9,9 @@
 
 <img align="right" width="370" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-## 🔐 Cybersecurity Engineering Student
+<h2>🔐 Cybersecurity Engineering Student</h2>
 
-### Future SOC Analyst • Blue Team • SIEM • Cloud Security
+<h3>Future SOC Analyst • Blue Team • SIEM • Cloud Security</h3>
 
 I am a Cybersecurity Engineering student passionate about **Security Operations Centers (SOC)**, **Detection Engineering**, **Cloud Security**, and **Defensive Cybersecurity**.
 
