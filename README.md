@@ -1,4 +1,4 @@
-#  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/shield-security.gif" width="35"> Wassim Jmili
+# <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/shield-security.gif" width="35"> Wassim Jmili
 
 
 <p align="center">
@@ -7,17 +7,21 @@
 
 </p>
 
+
 <img align="right" width="370" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 
 <h2>🔐 Cybersecurity Engineering Student</h2>
 
 <h3>Future SOC Analyst • Blue Team • SIEM • Cloud Security</h3>
 
+
 I am a Cybersecurity Engineering student passionate about **Security Operations Centers (SOC)**, **Detection Engineering**, **Cloud Security**, and **Defensive Cybersecurity**.
 
 I enjoy designing realistic cybersecurity labs, monitoring security events, investigating attacks, and improving detection capabilities through hands-on practice.
 
-<br clear="right"/>
+
+<br><br>
 
 
 ---
