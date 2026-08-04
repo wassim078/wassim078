@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/shield-security.gif" width="35"> Wassim Jmili
+#  Wassim Jmili
 
 
 <p align="center">
