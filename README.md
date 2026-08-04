@@ -317,7 +317,7 @@ Currently studying:
 # 📚 Cybersecurity Platforms
 
 
-<a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
+<a href="https://tryhackme.com/p/Wassim7050" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
