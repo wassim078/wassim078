@@ -8,7 +8,7 @@
 </p>
 
 
-<img align="right" width="370" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img  width="370" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 <h2>🔐 Cybersecurity Engineering Student</h2>
