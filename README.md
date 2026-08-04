@@ -317,10 +317,13 @@ Currently studying:
 # 📚 Cybersecurity Platforms
 
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+<a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
 
-
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+<a href="https://app.hackthebox.com/public/users/3680616" target="_blank">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+</a>
 
 
 
