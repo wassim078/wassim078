@@ -202,16 +202,16 @@ Detection Engineering laboratory:
 🏅 Cisco CCNA
 
 
-🏅 Microsoft Azure Fundamentals (AZ-900)
+🏅 Network Security
 
 
-🏅 TryHackMe SOC Level 1
+🏅 Network Technician Career Path Certificate
 
 
 Currently studying:
 
 
-- SOC Level 2
+- SOC Level 2 (tryHackME)
 - Microsoft Security
 - Threat Detection
 - Detection Engineering
