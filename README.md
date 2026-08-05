@@ -249,15 +249,6 @@ Currently studying:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wassim078&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim078&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassim078&theme=tokyonight&hide_border=true"/>
 
 </p>
